@@ -1,7 +1,7 @@
 👋 Hi, I’m Sophie
 
 
-I use data to work on climate justice issues. 
+I use data to work on climate equity issues. 
 
 An example of a data science project about [premature mortalitity due to air pollution in the Balkans](https://github.com/sophielogan/sophielogan/blob/main/Pollution_in_the_Balkans.pdf)
 
