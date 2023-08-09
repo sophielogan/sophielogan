@@ -15,3 +15,4 @@ You can find my articles & publications here:
 - I also wrote about [voluntary ESG disclosure](https://www.metric-esg.com/esgblog/from-voluntary-to-mandatory-esg-disclosure) and how it is changing (or not) with new regulation, which was related to a dashboard I built highlighting companies' ESG commitments by geography and sector 
 - While at Morningstar I published various articles ([here](https://www.morningstar.com/articles/997270/a-checklist-for-social-good-closing-the-intention-action-gap-when-giving-back) and [here](https://www.morningstar.com/articles/987972/what-can-you-do-to-support-under-represented-people-in-finance)) 
 
+If you think there might be an opportunity for an interesting collaboration, you can reach out on LinkedIn: https://www.linkedin.com/in/sophie-logan-6703b6142/
