@@ -3,7 +3,7 @@
 
 I use data to work on climate equity issues. 
 
-An example of a data science project about [premature mortalitity due to air pollution in the Balkans](https://github.com/sophielogan/sophielogan/blob/main/Pollution_in_the_Balkans.pdf)
+Here is an example of a data science project about [premature mortalitity due to air pollution in the Balkans](https://github.com/sophielogan/sophielogan/blob/main/Pollution_in_the_Balkans.pdf) and using [natural language processing to summarize climate texts] (https://github.com/sophielogan/Climate_Texts_Summarization?search=1).
 
 An example [dashboard](https://public.tableau.com/shared/SYRSZNC3R?:display_count=y&:origin=viz_share_link&:embed=y) about Environmental, Social, and Governance pledges of Public Corporations 
 
